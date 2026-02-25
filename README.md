@@ -6,3 +6,5 @@ The program does the following:
 3. Fills the created array with random positive integers from 1 to 100.
 4. Calculates the sum of the received elements.
 5. Divides the result by the number of elements in the array.
+
+Занятия по PHP. Простой Ввод/вывод. Массивы. Алгоритмы. Консольное приложение.
