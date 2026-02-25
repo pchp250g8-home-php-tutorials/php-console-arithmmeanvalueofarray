@@ -1,3 +1,5 @@
+ArithmMeanValueOfArray. PHP Tutorials. Simple Input/Output. Arrays. Algorithms. Console Application. 
+
 A console application project written in PHP and implemented in the Microsoft Visual Studio Code Editor. PHP Script. Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
 
 The program does the following:
