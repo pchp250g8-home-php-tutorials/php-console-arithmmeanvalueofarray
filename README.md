@@ -9,4 +9,4 @@ The program does the following:
 4. Calculates the sum of the received elements.
 5. Divides the result by the number of elements in the array.
 
-Занятия по PHP. Простой Ввод/вывод. Массивы. Алгоритмы. Консольное приложение.
+ArithmMeanValueOfArray. Занятия по PHP. Простой Ввод/вывод. Массивы. Алгоритмы. Консольное приложение.
